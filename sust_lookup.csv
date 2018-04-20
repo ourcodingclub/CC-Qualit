@@ -1,0 +1,30 @@
+﻿column_title,survey_question
+gender,What is your gender?
+age,What is your age range?
+location,"Where do you live? Please indicate city, country, and state (if applicable)."
+children_in_house,How many children under the age of 18 live in your household?
+highest_qualification,What is the highest level of school you have completed or the highest degree you have received?
+employment,Which of the following categories best describes your employment status?
+housework_week,"How many hours per week would you say you do housework? (i.e. cleaning, gardening, cooking)"
+interest_sustainability,Are you interested in sustainability?
+sustainability_daily_think,How often during a normal day do you think about the sustainability of your actions?
+primary_driver_sustainable_activities,Would you say that you are the primary driver of sustainable activities in the home?
+insterest_sustainability_origin,What led to your interest in being sustainable?
+sustainability_important,"What aspects of sustainability are most important to you? (i.e. energy, food, waste, water, etc)."
+sustainability_barrier,What would you consider to be your biggest barrier to acting sustainably? 
+energy_action,How many of these energy related sustainable actions do you perform?
+energy_action_often,How often do YOU instigate the actions that you selected above? (Energy)
+energy_action_comment,"If you can, please elaborate on the answer above (Energy)."
+water_action,How many of these water related sustainable actions do you perform?
+water_action_often,How often do YOU personally encourage the actions that you selected above? (Water)
+water_action_comment,"If you can, please elaborate on your answer above (Water)."
+food_action,How many of these food related sustainable actions do you perform?
+food_action_often,How often do YOU personally encourage the actions that you selected above? (Food)
+food_action_comment,"If you can, please elaborate on your answer above (Food)."
+waste_action,How many of these waste related sustainable actions do you perform?
+waste_action_often,How often do YOU personally encourage the actions that you selected above? (Waste)
+waste_action_comment,"If you can, please elaborate on your answer above (Waste)."
+other_action,How many of these other sustainable actions do you perform?
+other_action_often,How often do YOU personally encourage the actions that you selected above? (Other)
+other_action_comment,"If you can, please elaborate on your answer above (Other)."
+gender_thoughts,Do you have any final thoughts regarding how gender affects sustainability in the home that you would like to share?
