@@ -1,7 +1,7 @@
 # Visualising and analysing qualitative data
 
 This repository contains the files necessary to complete the Coding Club Qualitative Data Analysis tutorial - you can check it out at:
-https://ourcodingclub.github.io/2018/01/25/qualitative.html
+https://ourcodingclub.github.io/2018/01/29/qualitative.html
 
 `sust_behaviour.csv` contains anonymised data from an online survey of sustainable activity behaviour, where each column contains the responses to a given question in the survey.
 
